@@ -1,0 +1,1 @@
+ ngrok link: https://6c34-105-112-210-93.ngrok-free.app/predict
